@@ -20,11 +20,26 @@
 
 ## 🧠 About Me
 
-I'm a Software Engineering student with hands-on experience in **data engineering**, **AI integration**, and **full-stack development**. I don't just study tech — I build with it at a production level.
+<table>
+<tr>
+<td width="50%">
 
-- 🔭 Currently working as a **Freelancer** at **Upwork and Fiverr**
-- ⚡ I've shipped ETL pipelines, real-time apps, AI detection systems, and REST APIs — not just side projects
-- 🎯 Focused on scalable, efficient solutions to real-world problems
+I am a Software Engineer with a strong focus on **Backend Development and Data Engineering**, building scalable, secure, and production-ready applications.
+
+I work with technologies like **PHP (Laravel), ASP.NET, Java, and Python** to design backend systems with clean architecture, efficient APIs, and optimized databases.
+
+I also have experience in **data workflows, automation, and analytics**, including ETL processes, web scraping, and data processing using Python-based tools.
+</td>
+
+<td width="50%">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="coding gif"/>
+
+</td>
+
+
+</tr>
+</table>
 
 ---
 
