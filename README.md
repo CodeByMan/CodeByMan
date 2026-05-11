@@ -23,7 +23,6 @@
 I'm a Software Engineering student with hands-on experience in **data engineering**, **AI integration**, and **full-stack development**. I don't just study tech — I build with it at a production level.
 
 - 🔭 Currently working as a **Freelancer** at **Upwork and Fiverr**
-- 🌱 Pursuing **Cloud Data Engineering** at SMIT Karachi
 - ⚡ I've shipped ETL pipelines, real-time apps, AI detection systems, and REST APIs — not just side projects
 - 🎯 Focused on scalable, efficient solutions to real-world problems
 
