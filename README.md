@@ -6,8 +6,6 @@
 # Hey, I'm Muhammad Ali Nawaz 👋
 ### Software Engineer · Data Engineer · AI Builder
 
-*Building production-grade data pipelines, AI systems, and backend services*
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-ali-nawaz-362627338/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://www.muhammadalinawaz.works/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhammadalinawaz.dev@gmail.com)
