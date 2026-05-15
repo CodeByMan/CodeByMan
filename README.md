@@ -24,7 +24,7 @@
 
 I am a Software Engineer with a strong focus on **Backend Development and Data Engineering**, building scalable, secure, and production-ready applications.
 
-I work with technologies like **ASP.NET, PHP (Laravel), and Python** to design backend systems with clean architecture, efficient APIs, and optimized databases.
+I work with technologies like **ASP.NET, PHP/Laravel, and Python** to design backend systems with clean architecture, efficient APIs, and optimized databases.
 
 I also have experience in **data workflows, automation, and analytics**, including ETL processes, web scraping, and data processing using Python-based tools.
 </td>
@@ -43,7 +43,7 @@ I also have experience in **data workflows, automation, and analytics**, includi
 
 ## 🛠 Technical Expertise
 
-- PHP (Laravel) – Modern MVC applications  
+- PHP/Laravel – Modern MVC applications  
 - ASP.NET – Enterprise backend systems  
 - Python – Backend automation, ETL pipelines, AI integrations   
 - SQL – Database design and optimization  
