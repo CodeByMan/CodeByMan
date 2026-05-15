@@ -1,7 +1,7 @@
 <!-- Banner -->
 <div align="center">
   
-<!-- <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&width=1000&lines=Full+Stack+Developer;Backend-Focused;PHP+%7C+Laravel+%7C+ASP.NET+%7C+Python+%7C+Java;API+Development+%7C+Scalable+Systems;Open+to+Work+%26+Freelance" /> -->
+<!-- <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&width=1000&lines=Full+Stack+Developer;Backend-Focused;PHP+%7C+Laravel+%7C+ASP.NET+%7C+Python+%7C+API+Development+%7C+Scalable+Systems;Open+to+Work+%26+Freelance" /> -->
 
 # Hey, I'm Muhammad Ali Nawaz 👋
 ### Software Engineer · Data Engineer · AI Builder
@@ -24,7 +24,7 @@
 
 I am a Software Engineer with a strong focus on **Backend Development and Data Engineering**, building scalable, secure, and production-ready applications.
 
-I work with technologies like **PHP (Laravel), ASP.NET, Java, and Python** to design backend systems with clean architecture, efficient APIs, and optimized databases.
+I work with technologies like **ASP.NET, PHP (Laravel), and Python** to design backend systems with clean architecture, efficient APIs, and optimized databases.
 
 I also have experience in **data workflows, automation, and analytics**, including ETL processes, web scraping, and data processing using Python-based tools.
 </td>
@@ -45,8 +45,7 @@ I also have experience in **data workflows, automation, and analytics**, includi
 
 - PHP (Laravel) – Modern MVC applications  
 - ASP.NET – Enterprise backend systems  
-- Python – Backend automation, ETL pipelines, AI integrations (YOLO face detection)  
-- Java – High-performance backend applications  
+- Python – Backend automation, ETL pipelines, AI integrations   
 - SQL – Database design and optimization  
 - SEO Optimization – Meta tags, sitemaps, URL structure, performance  
 - CI/CD & DevOps – Docker, GitHub Actions, deployment pipelines  
@@ -79,7 +78,7 @@ I also have experience in **data workflows, automation, and analytics**, includi
 ## 💻 Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=php,python,java,cs,js,ts,html,css,mysql" />
+<img src="https://skillicons.dev/icons?i=php,python,cs,js,ts,html,css,mysql" />
 </p>
 
 ---
