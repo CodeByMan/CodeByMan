@@ -1,14 +1,16 @@
 <!-- Banner -->
 <div align="center">
-  
-<!-- <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&width=1000&lines=Full+Stack+Developer;Backend-Focused;PHP+%7C+Laravel+%7C+ASP.NET+%7C+Python+%7C+API+Development+%7C+Scalable+Systems;Open+to+Work+%26+Freelance" /> -->
 
-# Hey, I'm Muhammad Ali Nawaz 👋
-### Software Engineer · Data Engineer · AI Builder
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-ali-nawaz-362627338/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://www.muhammadalinawaz.works/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhammadalinawaz.dev@gmail.com)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:000428,50:004E92,100:000428&text=Muhammad%20Ali%20Nawaz&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Software%20Engineer%20•%20Data%20Engineer%20•%20AI%20Builder&descAlignY=58"/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=1000&color=58A6FF&center=true&vCenter=true&width=1200&lines=🚀+Backend+Developer;🎨+Frontend+Developer;⚙️+ASP.NET+Developer;🔥+PHP%2FLaravel+Developer;🤖+AI%2C+Cloud+%26+AI-Driven+Solutions;📈+SEO+Optimisation;🌐+Scalable+Web+Systems" />
+
+**Building scalable AI-powered platforms, cloud solutions, and production-grade web systems**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge)](https://www.linkedin.com/in/muhammad-ali-nawaz-362627338/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge)](https://www.muhammadalinawaz.works/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge)](mailto:muhammadalinawaz.dev@gmail.com)
 
 </div>
 
@@ -18,28 +20,21 @@
 
 ## 🧠 About Me
 
-<table>
-<tr>
-<td width="50%">
+<div align="left">
+
+<img align="right" alt="Coding" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 I am a Software Engineer with a strong focus on **Backend Development and Data Engineering**, building scalable, secure, and production-ready applications.
 
 I work with technologies like **ASP.NET, PHP/Laravel, and Python** to design backend systems with clean architecture, efficient APIs, and optimized databases.
 
 I also have experience in **data workflows, automation, and analytics**, including ETL processes, web scraping, and data processing using Python-based tools.
-</td>
 
-<td width="50%">
+🚀 Passionate about AI-powered solutions, scalable SaaS platforms, and modern cloud technologies.
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="coding gif"/>
+</div>
 
-</td>
-
-
-</tr>
-</table>
-
----
+<br clear="right"/>
 
 ## 🛠 Technical Expertise
 
