@@ -30,7 +30,7 @@ I work with technologies like **ASP.NET, PHP/Laravel, and Python** to design bac
 
 I also have experience in **data workflows, automation, and analytics**, including ETL processes, web scraping, and data processing using Python-based tools.
 
-🚀 Passionate about AI-powered solutions, scalable SaaS platforms, and modern cloud technologies.
+Passionate about AI-powered solutions, scalable SaaS platforms, and modern cloud technologies.
 
 </div>
 
