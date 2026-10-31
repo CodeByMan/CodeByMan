@@ -61,13 +61,12 @@ I also build **data pipelines and ETL workflows** involving web scraping, cleani
 
 | Project | Category | Tech Stack | Highlights |
 |---|---|---|---|
-| **One-Shot Face Recognition** | Computer Vision | Python, YOLOv11 Face, GFPGAN | Fine-tuned face-detection workflow with image, video, and webcam inference |
-| **DineIQ Analytics** | AI / ML | Python, PySpark MLlib, scikit-learn | Restaurant intelligence with demand-model comparisons and analytics |
+| **DineIQ Analytics** | Data Science | Python, PySpark MLlib, scikit-learn | Restaurant intelligence with demand-model comparisons and analytics |
 | **BuildCite AI** | LLM / RAG | Python, FastAPI, FAISS, OpenAI | Document RAG with PDF processing and page-level citations |
+| **One-Shot Face Recognition** | Computer Vision | Python, YOLOv11 Face, GFPGAN | Fine-tuned face-detection workflow with image, video, and webcam inference |
 | **ContentPilot AI** | PHP / Laravel | PHP, Laravel, MySQL, OpenAI | AI content platform with client/admin dashboards and usage tracking |
 | **Agile Workspace** | ASP.NET | ASP.NET Core, Angular, SQL Server | Role-aware project, backlog, and sprint management |
 | **IoT Data Migration to AWS Cloud** | Data Engineering | AWS IoT Core, Kafka, Snowflake, dbt | IoT ingestion, CDC, and Bronze-to-Gold transformations |
-| **Sales Demand Forecaster** | Data Science | Python, Streamlit, LSTM, SARIMA | Time-series model comparison with holdout back-testing |
 | **Uber Trip Insights** | Data Analysis | Power BI, Power Query, DAX | Interactive analysis of trip demand, time, value, and location |
 | **BeFit Fitness Tracker** | MERN | React, Node.js, Express, MongoDB | Fitness and nutrition tracking with an AI fitness assistant |
 
@@ -118,11 +117,6 @@ I also build **data pipelines and ETL workflows** involving web scraping, cleani
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=CodeByMan&show_icons=true&theme=tokyonight&hide_border=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeByMan&layout=compact&theme=tokyonight&hide_border=true" />
-
-<br/>
-
 <img height="170" src="https://streak-stats.demolab.com?user=CodeByMan&theme=tokyonight&hide_border=true" />
 
 </div>
@@ -132,7 +126,5 @@ I also build **data pipelines and ETL workflows** involving web scraping, cleani
 <div align="center">
 
 *"I don't wait to learn — I build, ship, and figure it out."*
-
-[![Profile views](https://visitcount.itsvg.in/api?id=CodeByMan&icon=0&color=0)](https://visitcount.itsvg.in)
 
 </div>
