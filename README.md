@@ -30,8 +30,6 @@ My hands-on projects include **LLM chatbots, RAG and document question answering
 
 I also build **data pipelines and ETL workflows** involving web scraping, cleaning, transformation, warehouse loading, analytics, and Power BI reporting. My cloud data projects use technologies including AWS, Snowflake, Kafka, Airflow, PySpark, and SQL.
 
-I focus on maintainable code, input validation, testing, debugging, and documentation while continuing to develop my skills in machine learning, conversational AI, and MLOps.
-
 </div>
 
 <br clear="right"/>
